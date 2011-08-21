@@ -1,0 +1,7 @@
+name: HLogin
+version: 1.00
+author: ethereal
+main: me.ethereal.HLogin.HLogin
+commands:
+soft-depend: Spout
+depend: [Spout]
